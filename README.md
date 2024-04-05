@@ -34,5 +34,5 @@ The repository structure is organized as follows:
 
 ## Credits
 
-This project was developed by shiv kant. Feel free to reach out for any inquiries or feedback.
+This project was developed by Ashutosh Pandey. Feel free to reach out for any inquiries or feedback.
 
